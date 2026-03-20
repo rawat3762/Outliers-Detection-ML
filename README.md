@@ -15,7 +15,8 @@ Outliers are data points that are very different from the rest of the data.
 ## ⚙️ Workflow
 
 * Import required libraries (pandas, matplotlib, seaborn)  
-* Load dataset  
+* Load dataset
+* Analyze ApplicantIncome and CoapplicantIncome 
 * Apply IQR method to detect outliers  
 * Visualize data using boxplot & displot 
 
